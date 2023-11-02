@@ -293,7 +293,7 @@ fun DotaScreenHeader() {
                 .background(Color(android.graphics.Color.parseColor(colorBackground)))
         ) {
             Column(
-                modifier = Modifier.padding(start = 124.dp, bottom = 40.dp, top = 14.dp)
+                modifier = Modifier.padding(start = 124.dp, bottom = 10.dp, top = 14.dp)
             ) {
                 Text(
                     text = stringResource(id = R.string.logo_text),
