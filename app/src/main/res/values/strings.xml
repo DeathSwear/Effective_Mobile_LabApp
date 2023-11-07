@@ -10,7 +10,6 @@
     <string name="chip1">MOBA</string>
     <string name="chip2">MULTIPLAYER</string>
     <string name="chip3">STRATEGY</string>
-
     <string name="description">Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the "Ancient", whilst defending their own.</string>
     <string name="comment_text">“Once you start to learn its secrets, there’s a wild and exciting variety of play here that’s unmatched, even by its peers.”</string>
 </resources>
