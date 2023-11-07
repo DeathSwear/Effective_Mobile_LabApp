@@ -62,7 +62,8 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//test
+//t2
 @Composable
 fun MainScreen() {
     AndroidLabTheme {
